@@ -31,7 +31,7 @@ I’m an **Information Technology undergraduate** with a strong foundation in
 ---
 
 ## 🌱 Currently Learning
-- Machine Learning & Data Visualization  
+- Machine Learning and AI 
 - Writing scalable and maintainable software  
 - Real-world system design concepts  
 
